@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./zReadme/logo.png" alt="Buy Me A Coffee" style="height: 120px !important;width: 120px !important;" >
+<img src="./zReadme/logo.png" style="height: 120px !important;width: 120px !important;" >
 </div>
 
 # Swag.live Downloader
