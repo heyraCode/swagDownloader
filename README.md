@@ -14,7 +14,7 @@ This is a video downloader for the [swag.live](https://swag.live) website. Pleas
 
 ## Installation
 
-You can download the appropriate installer for your system from the [Release](xxx) page. If no suitable installer is available, it means the platform is not supported yet.
+You can download the appropriate installer for your system from the [Release](https://github.com/heyraCode/swagDownloader/releases) page. If no suitable installer is available, it means the platform is not supported yet.
 
 ### Mac OS
 
