@@ -9,6 +9,8 @@ This is a video downloader for the [swag.live](https://swag.live) website. Pleas
 
 > Demo video: [Click here to view the online demo](https://www.dropbox.com/scl/fi/beb96ny2jmptsnq1n0y10/demo.mp4?rlkey=pdw0e9stgyl75wlbkbvf8qvn2&e=1&st=44mpr8ao&dl=0)
 
+> Website: [swag.heyra.cn](https://swag.heyra.uk/)
+
 ## Installation
 
 You can download the appropriate installer for your system from the [Release](https://github.com/heyraCode/swagDownloader/releases) page. If no suitable installer is available, it means the platform is not supported yet.
