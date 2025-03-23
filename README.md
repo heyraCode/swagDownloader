@@ -24,7 +24,8 @@ After downloading and installing, if you are using a macOS version (> Big Sur), 
 This happens because the project is for educational purposes and does not have an Apple developer certificate. To resolve this issue, run the following command:
 
 ```shell
-xattr -d com.apple.quarantine /Applications/SwagDownloader.app
+sudo spctl --master-disable # and need set 'Anywhere' in https://discussions.apple.com/thread/255759797?sortBy=rank
+sudo xattr -d com.apple.quarantine /Applications/SwagDownloader.app
 ```
 
 ### Windows
