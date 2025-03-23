@@ -28,7 +28,8 @@
 這是因為該項目為學習項目, 所以並沒有簽署相關蘋果秘鑰，解決這個問題也很簡單，你只需要執行如下指令
 
 ```shell
-xattr  -d com.apple.quarantine /Applications/SwagDwonloader.app
+sudo spctl --master-disable # and need set 'Anywhere' in https://discussions.apple.com/thread/255759797?sortBy=rank
+sudo xattr -d com.apple.quarantine /Applications/SwagDownloader.app
 ```
 
 ### Windows
